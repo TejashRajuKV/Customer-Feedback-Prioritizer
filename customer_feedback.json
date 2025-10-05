@@ -1,0 +1,163 @@
+[
+  {
+    "id": "2025-10-04T10:44:05.239208",
+    "timestamp": "2025-10-04 10:44:05",
+    "name": "Tejash Raju kV",
+    "email": "kvtejas4@gmail.com",
+    "category": "complaint",
+    "feedback": "webpage not working",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "confidence": 85,
+      "theme": "Complaint",
+      "assigned_team": "Product Team"
+    }
+  },
+  {
+    "id": "2025-10-04T10:47:00.305771",
+    "timestamp": "2025-10-04 10:47:00",
+    "name": "Tejash Raju kV",
+    "email": "kvtejas4@gmail.com",
+    "category": "complaint",
+    "feedback": "game as been hacked whenever i open",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "confidence": 85,
+      "theme": "Complaint",
+      "assigned_team": "Product Team"
+    }
+  },
+  {
+    "id": "2025-10-04T10:50:00.439261",
+    "timestamp": "2025-10-04 10:50:00",
+    "name": "Tejash Raju kV",
+    "email": "kvtejas4@gmail.com",
+    "category": "complaint",
+    "feedback": "webpage not working",
+    "analysis": {
+      "urgency": 8,
+      "impact": 9,
+      "priority": 9,
+      "confidence": 85,
+      "theme": "System Failure",
+      "assigned_team": "\ud83d\udd27 Engineering Team (URGENT)"
+    }
+  },
+  {
+    "id": "2025-10-04T11:04:22.933095",
+    "timestamp": "2025-10-04 11:04:22",
+    "name": "prajwal kv ",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "webpage is not opening,",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "theme": "General",
+      "confidence": 62,
+      "reasoning": "Detected general issue with urgency 3/10 and impact 3/10"
+    }
+  },
+  {
+    "id": "2025-10-04T12:31:09.343849",
+    "timestamp": "2025-10-04 12:31:09",
+    "name": "prajwal kv ",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "coming issues is regarding the problem of upi payments betraying users",
+    "analysis": {
+      "urgency": 6,
+      "impact": 6,
+      "priority": 6,
+      "theme": "Bug",
+      "confidence": 67,
+      "reasoning": "Detected bug issue with urgency 6/10 and impact 6/10"
+    }
+  },
+  {
+    "id": "2025-10-04T12:36:05.354925",
+    "timestamp": "2025-10-04 12:36:05",
+    "name": "tej",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "payment issues , webpage not working, there is some lag in ui ux design",
+    "analysis": {
+      "urgency": 8,
+      "impact": 8,
+      "priority": 8,
+      "theme": "System Failure",
+      "confidence": 67,
+      "reasoning": "Detected system failure issue with urgency 8/10 and impact 8/10"
+    }
+  },
+  {
+    "id": "2025-10-05T18:23:44.719833",
+    "timestamp": "2025-10-05 18:23:44",
+    "name": "rakesh k",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "website not working",
+    "analysis": {
+      "urgency": 8,
+      "impact": 8,
+      "priority": 8,
+      "theme": "System Failure",
+      "confidence": 61,
+      "reasoning": "Detected system failure issue with urgency 8/10 and impact 8/10"
+    }
+  },
+  {
+    "id": "2025-10-05T18:57:53.639421",
+    "timestamp": "2025-10-05 18:57:53",
+    "name": "Tejash Raju kV",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "website needs to be updated",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "theme": "General",
+      "confidence": 62,
+      "reasoning": "Detected general issue with urgency 3/10 and impact 3/10"
+    }
+  },
+  {
+    "id": "2025-10-05T19:00:11.194795",
+    "timestamp": "2025-10-05 19:00:11",
+    "name": "Tejash Raju kV",
+    "email": "tejaskvraju@gmail.com",
+    "category": "complaint",
+    "feedback": "website is lagging",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "theme": "Performance",
+      "confidence": 61,
+      "assigned_team": "Product Team",
+      "reasoning": "Detected performance issue with urgency 3/10 and impact 3/10"
+    }
+  },
+  {
+    "id": "2025-10-05T19:33:24.255626",
+    "timestamp": "2025-10-05 19:33:24",
+    "name": "Tejash Raju kV",
+    "email": "tejaskvraju@gmail.com",
+    "category": "performance",
+    "feedback": "low performance in the website",
+    "analysis": {
+      "urgency": 3,
+      "impact": 3,
+      "priority": 3,
+      "theme": "Performance",
+      "confidence": 63,
+      "assigned_team": "Product Team"
+    }
+  }
+]
